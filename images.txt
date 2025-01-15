@@ -1,1 +1,1 @@
-nginx
+openjdk:17-ea-15-oraclelinux7
