@@ -1,1 +1,1 @@
- openjdk:21-ea-oraclelinux7
+lowinli98/devpi:v0.3
