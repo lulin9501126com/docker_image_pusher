@@ -1,1 +1,1 @@
-docker pull grafana/grafana:11.6.0
+grafana/grafana:11.6.0
