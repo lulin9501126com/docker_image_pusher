@@ -1,1 +1,1 @@
-mysql:9.2
+redis:7
