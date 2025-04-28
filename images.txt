@@ -1,2 +1,2 @@
-superset:latest
+postgres:16
 
